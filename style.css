@@ -1,11 +1,29 @@
 body {
-    background: #cccccc
+    margin: 0;
 }
 
-p {
+h1,
+h2 {
+    text-align: center;
+
+}
+
+.principal {
+    background: #cccccc;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.principal p {
     text-align: center;
 }
 
 em strong {
-    color: red;
+    color: #FF0000;
+}
+
+#banner {
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
