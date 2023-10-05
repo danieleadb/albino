@@ -44,7 +44,7 @@ ul {
 }
 
 header {
-    background: #BBBBBB
+    background: #BBBBBB;
     display: flex;
     align-items: center;
 }
@@ -56,27 +56,17 @@ nav li {
 
 nav a {
     text-transform: uppercase;
-    color: #000000:
+    color: #000000;
     font-weight: bold;
     font-size: 22px;
-    text-decoration; none;
+    text-decoration: none;
 }
 
+.container {
+    width: 940px;
+    margin: auto;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+header div.container {
+    display: flex;
+}
