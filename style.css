@@ -70,3 +70,37 @@ nav a {
 header div.container {
     display: flex;
 }
+
+.produtos {
+ display: inline-blovk;
+ text-align: center;
+ width: 28%;
+ margin: 10px;
+ padding: 10px;
+ border: 2px solid #000000;
+ border=radius: 10px;
+}
+
+.produtos h2 {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.produto-descriçao {
+    font-size: 18px;
+}
+
+.produto-preço {
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 18px;
+}
+
+.produtos li;HOVER {
+    BORDER: 2PX SOLID #7c18b670;
+}
+
+header ul li a:hover {
+    color: #000000;
+    
+}
