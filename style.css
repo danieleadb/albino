@@ -102,5 +102,25 @@ header div.container {
 
 header ul li a:hover {
     color: #000000;
-    
+}
+
+.produtos li img {
+    max-widht: 250px;
+}
+
+footer {
+    text-align: center;
+    padding: 40px 0;
+    background-color: #BBBBBB;
+    margin=top: 50px;
+}
+
+copyright {
+    color: #ffffff
+    font-size: 13px;
+    margin; 20px 0 0;
+}
+
+main {
+    width: 940px;
 }
